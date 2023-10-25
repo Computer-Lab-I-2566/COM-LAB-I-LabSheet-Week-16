@@ -13,4 +13,4 @@ Usage: git commit -m “[ Type in the commit message]”
 # Git cherry-pick
 ใช้การเปลี่ยนแปลงที่แนะนำโดยคอมมิตที่มีอยู่บางส่วน
 # Git citool
-Graphical alternative to git-commit
+ใช้การเปลี่ยนแปลงที่แนะนำโดยคอมมิตที่มีอยู่บางส่วน

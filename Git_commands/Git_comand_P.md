@@ -31,3 +31,6 @@ git pull <remote> <branch>
 ตัวอย่างเช่น หากต้องการดึงการเปลี่ยนแปลงจาก remote repository ชื่อ "origin" และสาขาชื่อ "master" ให้ใช้คำสั่งต่อไปนี้
 
 git pull origin master
+
+![ภาพ](https://github.com/AnchisaPhetnoi/Git_A-Z_Mission_65030289/assets/144197034/401b377b-97c4-4bd2-9bb7-14e08aa8502e)
+

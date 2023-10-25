@@ -3,9 +3,7 @@
     grep : ค้นหาข้อความในไฟล์หรือในประวัติของ Git
     git-gui : อินเทอร์เฟซผู้ใช้แบบ GUI สำหรับ Git
     gitk : อินเทอร์เฟซผู้ใช้แบบ GUI สำหรับ Git
-    git-receive-pack : รับการเปลี่ยนแปลงจาก remote repository
-    git-shell : รันคำสั่ง Git ผ่านเชลล์อื่น
-    git-upload-pack : อัปโหลดการเปลี่ยนแปลงไปยัง remote repository
+
 
 รายละเอียดของแต่ละคำสั่งมีดังนี้
 
@@ -31,33 +29,9 @@ gitk
 
 gitk
 
-git-receive-pack
 
-คำสั่ง git-receive-pack ใช้สำหรับรับการเปลี่ยนแปลงจาก remote repository
 
-git-receive-pack <port>
 
-ตัวอย่างเช่น หากต้องการรับการเปลี่ยนแปลงจาก remote repository ผ่านพอร์ต 2222 ให้ใช้คำสั่งต่อไปนี้
-
-git-receive-pack 2222
-
-git-shell
-
-คำสั่ง git-shell ใช้สำหรับรันคำสั่ง Git ผ่านเชลล์อื่น
-
-git shell
-
-git-upload-pack
-
-คำสั่ง git-upload-pack ใช้สำหรับอัปโหลดการเปลี่ยนแปลงไปยัง remote repository
-
-git-upload-pack <port>
-
-ตัวอย่างเช่น หากต้องการอัปโหลดการเปลี่ยนแปลงไปยัง remote repository ผ่านพอร์ต 2222 ให้ใช้คำสั่งต่อไปนี้
-
-git-upload-pack 2222
-
-นอกจากคำสั่งเหล่านี้แล้ว ยังมีคำสั่งอื่นๆ ที่ขึ้นต้นด้วยอักษร G เช่น gc, grep-reflog, grep-remotes, grep-tags, init-db, init-repository, log-tree, merge-base, merge-file, merge-tool, mergetool-choose, push, rebase, reflog, show-ref, stash, tag, update-ref, worktree เป็นต้น
 
 สำหรับคำสั่ง git-gui และ gitk นั้น สามารถใช้แทนกันได้ แต่ git-gui มีฟังก์ชันการทำงานมากกว่า gitk
 ![ภาพ](https://github.com/AnchisaPhetnoi/Git_A-Z_Mission_65030289/assets/144197034/d620e17f-0f49-4d80-a8a5-9594a18e391d)

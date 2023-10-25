@@ -28,5 +28,8 @@ $ git checkout --patch <branch name> <file name>
 
 #  git cherry-pick 
 เปรียบเหมือน การที่ copy บางอย่างจาก folder หนึ่งไป paste ในอีก folder หนึ่งจะไม่ delete commit จาก branch เดิม และใน branch ที่เป็นปลายทาง ก็จะเป็น commit id ใหม่
+# ![image](https://github.com/65030121natthamon/Git_A-Z_Mission_65030121/assets/144195611/62766497-211e-4534-b4c1-acbe0b095533)
 
 # git config
+การตั้งค่า Git โดยใส่ชื่อและอีเมล์ ตั้งค่าให้ git บันทึก username,email จำไว้ในเครื่องเราเอง เพื่อไม่ให้ถาม username, email ในตอนเวลาเรา pull โค้ดลงมา 
+# ![image](https://github.com/65030121natthamon/Git_A-Z_Mission_65030121/assets/144195611/37c82c19-8652-4c0d-82af-b83c1b2fa9d7)

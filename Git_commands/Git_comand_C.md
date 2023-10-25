@@ -10,3 +10,7 @@
 ตัวอย่างการใช้ git commit 
 
 ![6](https://github.com/SuphawadiP/Git_A-Z_Mission_65030269/assets/144196049/6ba21218-48dd-4004-bd73-660a28a29554)
+
+คำสั่ง git config ใช้สำหรับตั้งค่าและรับค่าการกำหนดค่าสำหรับ Git ค่าเหล่านี้สามารถตั้งค่าสำหรับระดับสากล ระดับระบบ หรือระดับที่เก็บ
+
+![13](https://github.com/SuphawadiP/Git_A-Z_Mission_65030269/assets/144196049/a35cd9d8-e602-44fc-b49f-bab72023df0c)

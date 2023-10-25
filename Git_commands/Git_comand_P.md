@@ -14,4 +14,7 @@
 ## git push origin --tags
 ใช้เพื่อส่งแท็ก (tags) ไปยัง remote repository.
 ## git prune
-ใช้เพื่อลบอ้างอิง (refs) ที่ไม่ได้ใช้งานจาก local repository.
+ใช้เพื่อลบอ้างอิง (refs) ที่ไม่ได้ใช้งานจาก local repository
+
+![image](https://github.com/Nitiphum7/Git_A-Z_Mission_65030130/assets/144196695/68de4a9d-cef3-44a7-9cd0-ebf7abf0bb80)
+

@@ -45,5 +45,6 @@ git history --oneline
 สำหรับคำสั่ง hash-object นั้น สามารถใช้แทนคำสั่ง sha1sum ได้
 ![ภาพ](https://github.com/AnchisaPhetnoi/Git_A-Z_Mission_65030289/assets/144197034/f33087f4-1c0d-47a7-b86d-d3555432a430)
 ![ภาพ](https://github.com/AnchisaPhetnoi/Git_A-Z_Mission_65030289/assets/144197034/f89a84b6-6b58-4be0-9d55-4f8ca91c627e)
+![ภาพ](https://github.com/AnchisaPhetnoi/Git_A-Z_Mission_65030289/assets/144197034/918e50ae-8707-4742-b8ef-db15fd95cc6e)
 
 

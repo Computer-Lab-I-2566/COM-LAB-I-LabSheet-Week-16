@@ -25,6 +25,8 @@
 <br>
 คำสั่งนี้จะคัดลอก repository my-project จาก GitHub ไปยัง local
 <br>
+![image](https://github.com/ThanchiraCharakhon099/Git_A-Z_Mission_65030099/assets/144195708/f8205bad-86e5-434c-91d4-7ef83a4916b1)
+
 ### cherry-pick
  git cherry-pick 13 
 <br>

@@ -3,9 +3,7 @@
     hash-object : สร้าง hash ของไฟล์หรือข้อความ
     help : แสดงความช่วยเหลือเกี่ยวกับคำสั่ง Git
     history : แสดงประวัติของ Git
-    init : สร้าง repository ใหม่
-    init-db : สร้างฐานข้อมูล Git
-    init-repository : สร้าง repository ใหม่
+   
 
 รายละเอียดของแต่ละคำสั่งมีดังนี้
 

@@ -24,7 +24,9 @@ git cherry-pick : ใช้คอมมิตกับสาขาปัจจ�
 git config : ตั้งค่าและดูตัวแปรการกำหนดค่า Git
 
 
-![Capture22](https://github.com/chatladawongkanyon/COM-LAB-I-LabSheet-Week-16/assets/144195963/48ab60e5-ac2d-4ac4-961b-ad04b32e5645)
+![88](https://github.com/chatladawongkanyon/COM-LAB-I-LabSheet-Week-16/assets/144195963/d6a8fe1d-cc8c-4c32-b4cd-907d4744ec3d)
+
+![89](https://github.com/chatladawongkanyon/COM-LAB-I-LabSheet-Week-16/assets/144195963/5161b832-177a-4915-83e5-ab446f78814f)
 
 
 git count-objects : นับจำนวนวัตถุในพื้นที่เก็บข้อมูล

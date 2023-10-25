@@ -19,3 +19,6 @@
 ใช้เพื่อจัดการ submodule ในโปรเจ็กต์ Git.
 ## git shortlog
 ใช้เพื่อแสดงสรุปของการ commit โดยจัดเรียงตามผู้ทำการ commit.
+
+![image](https://github.com/Nitiphum7/Git_A-Z_Mission_65030130/assets/144196695/aa222600-365c-4208-be64-28255b907232)
+

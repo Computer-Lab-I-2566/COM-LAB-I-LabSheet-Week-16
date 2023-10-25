@@ -15,5 +15,6 @@ hard ย้อนการเปลี่ยนแปลงแบบลบทั
          $git reset --soft 4bcb295   #ย้อนกลับไปที่ Commit id 4bcb295
          $git reset --mixed develop  #ย้อนกลับไปที่ Branch develop
 
-และ
-          $git revert - ใช้เพื่อเลิกทำการเปลี่ยนแปลง
+และ git revert 
+
+             $git revert - ใช้เพื่อเลิกทำการเปลี่ยนแปลง

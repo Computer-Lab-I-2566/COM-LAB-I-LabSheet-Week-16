@@ -51,3 +51,4 @@ git out abc123
 นอกจากคำสั่งเหล่านี้แล้ว ยังมีคำสั่งอื่นๆ ที่ขึ้นต้นด้วยอักษร O เช่น object-id, object-name, object-type, objects, oneline-patch, out-raw, push-all, pull-all เป็นต้น
 
 สำหรับคำสั่ง oneline และ out นั้น สามารถใช้แทนกันได้ แต่ oneline จะแสดงข้อมูลเกี่ยวกับ commit แบบ one-line ในขณะที่ out จะแสดงข้อมูลเกี่ยวกับ commit แบบเต็ม
+![ภาพ](https://github.com/AnchisaPhetnoi/Git_A-Z_Mission_65030289/assets/144197034/b971c3a2-c36a-4639-9dc2-37e9cb5f8014)

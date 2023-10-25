@@ -8,3 +8,9 @@
 # Git commit
 Usage: git commit -m “[ Type in the commit message]”
 คำสั่งนี้จะบันทึกหรือสแน็ปช็อตไฟล์อย่างถาวรในประวัติเวอร์ชัน
+# Git checkout
+สลับสาขาหรือกู้คืนไฟล์แผนผังการทำงาน
+# Git cherry-pick
+ใช้การเปลี่ยนแปลงที่แนะนำโดยคอมมิตที่มีอยู่บางส่วน
+# Git citool
+Graphical alternative to git-commit

@@ -2,4 +2,4 @@
 
 ## git diff
 
-## แสดงความแตกต่างระหว่าง commit,brach,file
+### แสดงความแตกต่างระหว่าง commit,brach,file

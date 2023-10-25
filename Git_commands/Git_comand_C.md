@@ -11,3 +11,6 @@
 เป็นคำสั่งที่ใช้แสดงและกำหนดข้อมูลของผู้ใช้เพื่อระบุตัวตน และคุณสมบัติอื่นๆ ของ Git
 ## git cherry-pick
 เป็นการนำ commit บางอันจาก branch มาใส่ใน branch ปัจจุบัน.
+
+![image](https://github.com/Nitiphum7/Git_A-Z_Mission_65030130/assets/144196695/dcefb682-b050-418f-8e5c-36efb7213ebc)
+

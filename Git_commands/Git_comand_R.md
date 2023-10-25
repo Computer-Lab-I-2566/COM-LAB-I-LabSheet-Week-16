@@ -18,4 +18,7 @@
 ## git remote remove
 ใช้เพื่อลบ remote repository ที่เชื่อมโยงกับ local repository.
 ## git remote prune
-ใช้เพื่อลบอ้างอิง (refs) ที่ไม่ได้ใช้งานจาก remote repository.
+ใช้เพื่อลบอ้างอิง (refs) ที่ไม่ได้ใช้งานจาก remote repository
+
+![image](https://github.com/Nitiphum7/Git_A-Z_Mission_65030130/assets/144196695/cae8dc62-c18a-430a-a421-4f9b58c8a89c)
+

@@ -35,3 +35,6 @@ $ git grep-E'หนังสือ*|ผู้แต่ง'
 
 ผลลัพธ์ต่อไปนี้แสดงว่าคำว่า 'ผู้เขียน' มีอยู่สองครั้งใน Authorinfo.php ไฟล์และคำว่า 'หนังสือ' มีอยู่ครั้งหนึ่งใน booklist.php และ booktype.php ไฟล์.
 # ![9d9eee5e76a1be5bbd714cb1e32908d0](https://github.com/65030121natthamon/Git_A-Z_Mission_65030121/assets/144195611/7251d438-4aab-48fc-836e-722afb697ddd)
+
+อ้างอิงจาก
+# https://ciksiti.com/th/chapters/3715-how-to-use-grep-for-searching-in-the-git-repository--linux

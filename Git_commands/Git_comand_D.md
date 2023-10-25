@@ -9,3 +9,6 @@
 ใช้เพื่อแสดงคำอธิบายสั้นของ commit ที่เป็นพื้นฐานของ branch ปัจจุบันและแสดงที่มาจากแท็ก (tag) ถ้ามี.
 ## git diff --staged
 ใช้เพื่อแสดงความแตกต่างระหว่าง Staging Area และ commit ล่าสุด.
+
+![image](https://github.com/Nitiphum7/Git_A-Z_Mission_65030130/assets/144196695/7bdcfd8c-23d0-469b-a069-28b2f2bc2396)
+

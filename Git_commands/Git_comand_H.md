@@ -2,6 +2,8 @@
 
 1. git help: ใช้เพื่อเรียกดูคู่มือและความช่วยเหลือเกี่ยวกับคำสั่ง Git ที่คุณระบุ
 
+<img width="497" alt="Screenshot 2023-10-25 120032" src="https://github.com/anndyyzzz/Git_A-Z_Mission_65030276/assets/144866059/faa40ee2-4233-4bc8-9fc3-4536982b5b07">
+
 2. git hash-object: ใช้เพื่อคำนวณ SHA-1 hash ของไฟล์และแสดงค่า hash ของไฟล์
 
 3. git http-backend: ไม่ใช่คำสั่ง Git ทั่วไป แต่เป็นโปรแกรมเซิร์ฟเวอร์ Git ที่ใช้เพื่อให้บริการผ่าน HTTP

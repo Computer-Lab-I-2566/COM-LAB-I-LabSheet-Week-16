@@ -28,3 +28,5 @@ $ git checkout --patch <branch name> <file name>
 
 #  git cherry-pick 
 เปรียบเหมือน การที่ copy บางอย่างจาก folder หนึ่งไป paste ในอีก folder หนึ่งจะไม่ delete commit จาก branch เดิม และใน branch ที่เป็นปลายทาง ก็จะเป็น commit id ใหม่
+
+# git config

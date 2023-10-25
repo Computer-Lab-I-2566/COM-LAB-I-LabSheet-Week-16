@@ -58,6 +58,7 @@ git fetch origin
 นอกจากคำสั่งเหล่านี้แล้ว ยังมีคำสั่งอื่นๆ ที่ขึ้นต้นด้วยอักษร Fเช่น  fetch-all, fetch-prune, fetch-tags-all, fetch-update-shallow, fetch-update-shallow-and-prune, fetch-update-tags, fetch-update-tags-shallow, fetch-update-tags-shallow-and-prune, fetch-update-shallow-and-tags, fetch-update-shallow-and-tags-shallow, fetch-update-shallow-and-tags-shallow-and-prune, fetch-update-shallow-tags, fetch-update-shallow-tags-and-prune, fetch-update-tags-and-prune, fetch-update-tags-shallow-and-prune, fetch-update-shallow-tags-and-prune, fetch-update-shallow-and-tags-shallow, fetch-update-shallow-and-tags-shallow-and-prune, fetch-update-shallow-tags-shallow, fetch-update-shallow-tags-shallow-and-prune, fetch-update-shallow-tags-and-prune, fetch-update-shallow-tags-shallow-and-prune, fetch-update-shallow-tags-shallow-and-prune เป็นต้น
 
 สำหรับคำสั่ง fetch-pack และ fetch-ref นั้น สามารถใช้แทนคำสั่ง git fetch ได้ แต่จะไม่ดาวน์โหลด tags มาด้วย หากต้องการดาวน์โหลด tags ด้วย ให้ใช้คำสั่ง git fetch --tags
+
 ![ภาพ](https://github.com/AnchisaPhetnoi/Git_A-Z_Mission_65030289/assets/144197034/276ab9ae-e49c-4480-8ee2-d1c6e24acefd)
 ![ภาพ](https://github.com/AnchisaPhetnoi/Git_A-Z_Mission_65030289/assets/144197034/f08e10bb-3041-4160-a663-9df0eeffcddc)
 

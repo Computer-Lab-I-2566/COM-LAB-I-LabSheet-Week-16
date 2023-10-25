@@ -16,8 +16,8 @@ git branch [ชื่อสาขา]
 ตัวอย่างการใช้งาน
 
 git branch master
-
 bisect
+
 ![image](https://github.com/AnchisaPhetnoi/Git_A-Z_Mission_65030289/assets/144197034/6373bda2-d853-4574-af7a-8444d09d93ce)
 
 ใช้สำหรับค้นหา commit ที่ทำให้เกิดปัญหา คำสั่งนี้จะแบ่งประวัติของ repository ออกเป็นสองส่วน แล้วทำการทดสอบ commit ในแต่ละส่วนจนกว่าจะพบ commit ที่ทำให้เกิดปัญหา
@@ -67,3 +67,6 @@ git branch -vv
    * bugfix   321456789abcdef (origin/bugfix)
 
 คำสั่ง branch เป็นคำสั่งที่มีประโยชน์ในการติดตามการทำงานบนโครงการขนาดใหญ่ที่มีหลายสาขา
+![ภาพ](https://github.com/AnchisaPhetnoi/Git_A-Z_Mission_65030289/assets/144197034/a5791ce6-accf-4847-8d63-d7d51520bd22)
+![ภาพ](https://github.com/AnchisaPhetnoi/Git_A-Z_Mission_65030289/assets/144197034/2c3c9393-cbcb-4159-ad14-7339f3440f2d)
+

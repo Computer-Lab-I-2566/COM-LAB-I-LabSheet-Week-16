@@ -6,11 +6,12 @@ git commit -m “change function b”
 
 ## git clone
 เป็นการก้อปปี้โปรเจคจำลองมาจากโปรเจคหลัก โดยเราจะสามารถเปลี่ยนแปลงไฟล์ในโปรเจคจำลองนี้ได้โดยที่ไม่กระทบโปรเจคหลัก (ไฟล์จำลองที่เราทำการเปลี่ยนแปลงจะเรียกว่า local repository และไฟล์หลักที่อยู่คนละที่จะเรียกว่า remote repository) 
-### ตัวอย่าง git clone
+### ![image](https://github.com/65030121natthamon/Git_A-Z_Mission_65030121/assets/144195611/a0f4da8c-8add-4cbf-8f6c-9e092d369247)
+
 
 ## git checkout 
 เป็นคำสั่งที่ใช้สำหรับสลับ ไปยัง branch หรือ Commit ที่เราเคยสร้างไว้
-#### ตัวอย่าง
+#### 
 #### ย้ายการทำงานไปที่ Branch หรือ commit_id ที่ระบุ 
 $ git checkout <branch name || commit id> 
 

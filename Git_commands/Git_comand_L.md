@@ -18,4 +18,7 @@
 ## git log --since=<เวลา>
 ใช้เพื่อแสดงประวัติการ commit ตั้งแต่วันและเวลาที่ระบุ.
 ## git log --until=<เวลา>
-ใช้เพื่อแสดงประวัติการ commit ถึงวันและเวลาที่ระบุ.
+ใช้เพื่อแสดงประวัติการ commit ถึงวันและเวลาที่ระบุ
+
+![image](https://github.com/Nitiphum7/Git_A-Z_Mission_65030130/assets/144196695/c3fdfaab-62ef-4df7-8a2c-ff1e74eba21f)
+

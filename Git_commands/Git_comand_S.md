@@ -6,3 +6,6 @@
 ## Git switch
 เป็นการย้ายไฟล์ที่อยู่ในbranchนึงไปอีกbranchนึง
 ![2col](https://github.com/ThanaloekKaisai/Git_A-Z_Mission_65030096/assets/144195683/427ad959-2723-4a8b-95af-68e875d17c31)
+## Git show
+เป้นการโชว์ว่าขระนี้เกิดอะไรขึ้นที่ไหนอย่างไร
+![2cold](https://github.com/ThanaloekKaisai/Git_A-Z_Mission_65030096/assets/144195683/3b463119-956e-47b4-983c-7e91e7b45bc5)

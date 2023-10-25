@@ -16,3 +16,8 @@
 ## git clean : ใช้สำหรับลบไฟล์ที่ไม่ได้ติดตามออกจากพื้นที่ทำงาน
 ![image](https://github.com/Sorawit255/Git_A-Z_Mission_65030255/assets/144196505/081ef5b2-762b-4183-baf3-a8806bb73fab)
 ![image](https://github.com/Sorawit255/Git_A-Z_Mission_65030255/assets/144196505/031005bf-010a-40d4-85aa-45316fa84775)
+
+## git config ... : ตัวเข้าถึงข้อมูล github/ข้อมูลอื่นๆ
+ตย. เช่น git config --global user.gmail "...@gmail.com"
+        git config --global user.name "..."
+        git config --global --list

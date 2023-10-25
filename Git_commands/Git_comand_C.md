@@ -18,6 +18,6 @@
 ![image](https://github.com/Sorawit255/Git_A-Z_Mission_65030255/assets/144196505/031005bf-010a-40d4-85aa-45316fa84775)
 
 ## git config ... : ตัวเข้าถึงข้อมูล github/ข้อมูลอื่นๆ
-ตย. เช่น git config --global user.gmail "...@gmail.com"
-        git config --global user.name "..."
-        git config --global --list
+#### ตย. เช่น git config --global user.gmail "...@gmail.com"
+####         git config --global user.name "..."
+####         git config --global --list

@@ -14,10 +14,14 @@
 #### git clone : คือการก้อปปี้โปรเจคจำลองมาจากโปรเจคหลัก สามารถเปลี่ยนแปลงไฟล์ในโปรเจคจำลองนี้ได้โดยที่ไม่กระทบโปรเจคหลัก (ไฟล์จำลองที่เราทำการเปลี่ยนแปลงจะเรียกว่า local repository และไฟล์หลักที่อยู่คนละที่จะเรียกว่า remote repository)
 
 ตัวอย่าง 
-![image](https://github.com/KanyakornPuengmon/Git_A-Z_Mission_65030018/assets/144195697/5989d36b-7a23-4186-8bc7-0ab64380d4a4)
+
+![Screenshot 2023-09-08 201314](https://github.com/KanyakornPuengmon/Git_A-Z_Mission_65030018/assets/144195697/56d3f258-51fa-4b52-bd7f-bf2f57d63a72)
+
 
 
 เมื่อใช้คำสั่ง git clone แล้วต้องใช้คำสั่งต่อไปนี้ด้วย
-![image](https://github.com/KanyakornPuengmon/Git_A-Z_Mission_65030018/assets/144195697/b2fbc364-e48b-4fc1-bff3-567b082bf89b)
+
+![Screenshot 2023-09-08 202226](https://github.com/KanyakornPuengmon/Git_A-Z_Mission_65030018/assets/144195697/970df10a-7a4e-4303-843d-a877e9c9f823)
+
 
 
